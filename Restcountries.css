@@ -1,0 +1,12 @@
+.card {
+    background: linear-gradient(
+45deg, #e9c514, white);
+
+word-wrap:unset!important;
+}
+
+
+body{
+
+    background:#c9c2c2;
+}
